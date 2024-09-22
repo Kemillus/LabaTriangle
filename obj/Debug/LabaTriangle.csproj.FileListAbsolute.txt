@@ -1,0 +1,9 @@
+D:\Veronika\LabaTriangle\LabaTriangle\bin\Debug\LabaTriangle.exe.config
+D:\Veronika\LabaTriangle\LabaTriangle\bin\Debug\LabaTriangle.exe
+D:\Veronika\LabaTriangle\LabaTriangle\bin\Debug\LabaTriangle.pdb
+D:\Veronika\LabaTriangle\LabaTriangle\obj\Debug\LabaTriangle.csproj.AssemblyReference.cache
+D:\Veronika\LabaTriangle\LabaTriangle\obj\Debug\LabaTriangle.Properties.Resources.resources
+D:\Veronika\LabaTriangle\LabaTriangle\obj\Debug\LabaTriangle.csproj.GenerateResource.cache
+D:\Veronika\LabaTriangle\LabaTriangle\obj\Debug\LabaTriangle.csproj.CoreCompileInputs.cache
+D:\Veronika\LabaTriangle\LabaTriangle\obj\Debug\LabaTriangle.exe
+D:\Veronika\LabaTriangle\LabaTriangle\obj\Debug\LabaTriangle.pdb
