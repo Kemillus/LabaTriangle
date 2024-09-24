@@ -32,7 +32,7 @@ namespace LabaTriangle
             PaintBackground(g, Color.Black);
             PaintLines(g, startPoint);
             PaintLine(g, startPoint, Color.White);
-            PaintTriangless(g, startPoint, 15, Color.White);
+            PaintTriangless(g, startPoint, 30, Color.White);
             DrawTriangle(g, startPoint);
         }
 
@@ -98,7 +98,6 @@ namespace LabaTriangle
 
             gradientBrush.Dispose();
         }
-
 
         private Point[] GetPoints(Point startPoint)
         {
